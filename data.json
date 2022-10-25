@@ -36,11 +36,11 @@
   },
   {
     "id": 4,
-    "title": "Mens Casual Slim Fit",
+    "title": "Software Design",
     "price": 15.99,
-    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "description": "Our artificial intelligence (AI) and software design courses give you the skills to design software for the 21st century. You’ll learn about big data, green computing and cybersecurity, and how they impact on the way we design and consume technology",
     "category_id": "03",
-    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "image": "https://www.meineblog.com/wp-content/uploads/2022/03/Software-Development-Business1-1-.jpg",
     "rating": 2.1, 
     "total_enrooled": 430
     
@@ -61,7 +61,7 @@
     "price": 168,
     "description": "At Swinburne, our big data course and data analytics degree will give you the frameworks you need to solve big problems with big data. You’ll learn what is needed, what can be ignored, and how to find the data that gives you the answers you’re looking for.",
     "category_id": "04",
-    "image": "https://res.cloudinary.com/talend/imageuploadblog%2F2022-images%2FBlog_CareerDataAnalytics_NoJob_jlapvd",
+    "image": "https://cloudinary.hbs.edu/hbsit/image/upload/s--I2Gu66-p--/f_auto,c_fill,h_375,w_750,/v20200101/57C255C00BF4E0FB67F6DA704E94003B.jpg",
     "rating": 3.9,
     "total_enrooled": 70
   },
