@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Cyber Security",
+    "price": 109.95,
+    "description": "Cyber security isn’t just about protecting credit card numbers. Our undergraduate and postgraduate network security and cyber security courses equip graduates with the skills to protect the ongoing prosperity and health of our society. Everything from business, politics, democracy and the economy, is reliant on safe and secure networks.",
+
+    "category_": "01",
+    "image": "https://www.ict.eu/sites/corporate/files/images/Cyber%20security%20header_1920x1280px%20%281%29.jpg",
+    "rating": 3.9,
+    "total_enrooled": 150
+  },
+
+
+  {
+    "id": 2,
+    "title": "Computer Science",
+    "price": 22.3,
+    "description": "An undergraduate degree must be about more than just knowledge – it’s also job readiness, professional experience and access to further opportunities.",
+    "category_id": "02",
+    "image": "https://www.zdnet.com/a/img/resize/3735bc4e03c62f7d1d890d1f99dcd7d234e2c8ee/2021/07/19/e28889a7-7c41-4dd8-9899-2ee60d1850e2/computer-science-course-overview-shutterstock-1377112199.jpg?auto=webp&width=1200",
+    
+    "rating": 4.1,
+    "total_enrooled": 259
+  },
+  
+  {
+    "id": 3,
+    "title": "Data Management",
+    "price": 55.99,
+    "description": "Talented people are needed to learn data management and database administration. Tackling the challenges and identifying opportunities that the massive influx of data presents is a vital skill that is growing in demand. That’s why we offer data management courses ",
+    "category_id": "01",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/1052976378/midsize-business-data-growth-analytics/960x0.jpg?format=jpg&width=960",
+    "rating": 4.7,
+    "total_enrooled": 500
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category_id": "03",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": 2.1, 
+    "total_enrooled": 430
+    
+  },
+  {
+    "id": 5,
+    "title": "IT Network Design and Technology",
+    "price": 695,
+    "description": "Our IT networking courses teach you the latest in network technology and design.Understand everything from the basics of computer networks through to the ways local and global digital networks interact — and then learn how to improve them.",
+    "category_id": "03",
+    "image": "https://www.cisco.com/c/dam/assets/swa/img/anchor-info/network-designed-628x353.jpg",
+    "rating": 4.6,
+    "total_enrooled": 400
+  },
+  {
+    "id": 6,
+    "title": "Data Analytics",
+    "price": 168,
+    "description": "At Swinburne, our big data course and data analytics degree will give you the frameworks you need to solve big problems with big data. You’ll learn what is needed, what can be ignored, and how to find the data that gives you the answers you’re looking for.",
+    "category_id": "04",
+    "image": "https://res.cloudinary.com/talend/imageuploadblog%2F2022-images%2FBlog_CareerDataAnalytics_NoJob_jlapvd",
+    "rating": 3.9,
+    "total_enrooled": 70
+  },
+  {
+    "id": 7,
+    "title": "Computer Systems Technology",
+    "price": 99.99,
+    "description": "Our computer systems courses help you  excel in installing and administering networks, including servers, desktop deployments, robotics-related programming and more.",
+    "category_id": "05",
+    "image": "https://www.collegechoice.net/app/uploads/2017/10/CC_Tech_Computers.jpg",
+    "rating": 3,
+    "total_enrooled": 70
+  }
+]
