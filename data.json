@@ -74,5 +74,35 @@
     "image": "https://www.collegechoice.net/app/uploads/2017/10/CC_Tech_Computers.jpg",
     "rating": 3,
     "total_enrooled": 70
+  },
+  {
+    "id": 8,
+    "title": "Computer Systems Technology",
+    "price": 99.99,
+    "description": "Our computer systems courses help you  excel in installing and administering networks, including servers, desktop deployments, robotics-related programming and more.",
+    "category_id": "05",
+    "image": "https://www.collegechoice.net/app/uploads/2017/10/CC_Tech_Computers.jpg",
+    "rating": 3,
+    "total_enrooled": 70
+  },
+  {
+    "id": 9,
+    "title": "Computer Systems Technology",
+    "price": 99.99,
+    "description": "Our computer systems courses help you  excel in installing and administering networks, including servers, desktop deployments, robotics-related programming and more.",
+    "category_id": "04",
+    "image": "https://www.collegechoice.net/app/uploads/2017/10/CC_Tech_Computers.jpg",
+    "rating": 3,
+    "total_enrooled": 70
+  },
+  {
+    "id": 10,
+    "title": "Computer Systems Technology",
+    "price": 99.99,
+    "description": "Our computer systems courses help you  excel in installing and administering networks, including servers, desktop deployments, robotics-related programming and more.",
+    "category_id": "03",
+    "image": "https://www.collegechoice.net/app/uploads/2017/10/CC_Tech_Computers.jpg",
+    "rating": 3,
+    "total_enrooled": 70
   }
 ]

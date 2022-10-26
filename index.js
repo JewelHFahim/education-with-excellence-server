@@ -20,9 +20,13 @@ app.get('/cource/:id', (req, res)=>{
     res.send(singleCource);
 })
 
+app.get('/category', (req, res)=>{
+    res.send(categories);
+})
+
 app.get('/category/:id', (req, res)=>{
     const id = req.params.id;
-    const getCategory = categories.filter(d => d.id == id );
+    const getCategory = cources.filter(d => d.category_id == id );
     res.send(getCategory);
 })
 
